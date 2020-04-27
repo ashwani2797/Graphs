@@ -20,6 +20,8 @@ public class Graph
         this.adj[v].add(w);
         this.adj[w].add(v);
         this.E++;
+        //helo
+
     }
 
     public int V()
